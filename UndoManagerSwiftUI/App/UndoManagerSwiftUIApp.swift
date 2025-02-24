@@ -11,7 +11,7 @@ import SwiftUI
 struct UndoManagerSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RectangleGridView()
         }
     }
 }
